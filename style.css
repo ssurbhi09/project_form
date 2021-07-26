@@ -1,0 +1,43 @@
+body {
+
+		height: 100%;
+
+		background: url(https://thumbs.dreamstime.com/b/white-wood-wall-texture-background-panels-graphic-resources-149622903.jpg) center center fixed;
+
+		background-size: cover;
+
+}
+
+.shade {
+
+		overflow: auto;
+
+		position: absolute;
+
+		top: 0;
+
+		left: 0;
+
+		bottom: 0;
+
+		right: 0;
+
+		background-image: linear-gradient( 150deg, rgba(0, 0, 0, 0.65), transparent);
+
+}
+
+.blackboard {
+
+		position: relative;
+
+		width: 640px;
+
+		margin: 7% auto;
+
+		border: tan solid 12px;
+
+		border-top: #bda27e solid 12px;
+
+		border-left: #b19876 solid 12px;
+
+		border-bottom: #
